@@ -30,10 +30,10 @@ if (userNumberEvenOrOdd === 'pari' && userEvenOrOdd === 'pari') {
     alert('Hai perso!');
 }
 
-console.log(userEvenOrOdd);
-console.log(userNumberEvenOrOdd);
-console.log(pcNumber);
-console.log(userNumber);
+// console.log(userEvenOrOdd);
+// console.log(userNumberEvenOrOdd);
+// console.log(pcNumber);
+// console.log(userNumber);
 
 
 // FUNCTIONS
