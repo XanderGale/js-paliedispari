@@ -9,7 +9,6 @@ console.log(userWord);
 let userWordPalindromeOrNot = palindromeOrNot(userWord);
 
 // Output
-
 if (userWordPalindromeOrNot === true){
     alert('La tua parola è palindroma.');
 } else{
